@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah koleksi yang dimiliki
 
 ##Koleksi
-1. [aturan_pakai_ms glow](ebook/coba.pdf) Tere Liye, (2019)
+1. [23523-93598-1-PB](ebook/23523-93598-1-PB.pdf) Boy Candra, (2016)
 contoh buku lain
 
 
