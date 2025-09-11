@@ -6,6 +6,6 @@ Berikut adalah Koleksi Yang dimiliki:
 
 ## Koleksi
 1. [Dwi Agustina cantikkk](ebook3/UU Nomor 20 Tahun 2014.pdf) - Agstn (2004)
-2. Contoh buku lain
+2. [Ringkasan Beyond](ebook3/Ringkasan Beyond.pdf) - Dwi (2025)
 
    *powered by GitHub Pages*
