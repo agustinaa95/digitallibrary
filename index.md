@@ -12,7 +12,7 @@ Berikut adalah Koleksi Yang dimiliki:
 5. [Pada Senja yang membawamu pergi](ebook3/Pada Senja yang membawamu pergi.pdf) - Boy Candra (2016)
 6. [Rahasia magnet rezeki](ebook3/Rahasia magnet rezeki.pdf) - Nasrullah (2016)
 7. [Yang fana adalah waktu](ebook3/Yang fana adalah waktu.pdf) - Sapardi Djoko Samono (2018)
-8. [Janji] (ebook3/Janji.pdf) - Tere Liye (2018)
+8. [Janji](ebook3/Janji.pdf) - Tere Liye (2018)
 9. [Sepotong Hati yang Baru](ebook3/Sepotong Hati yang Baru.pdf) - Tere Liye (2019)
 10. [Si Anak Pelangi](ebook3/Si Anak Pelangi.pdf) - Tere Liye (2020)
    *powered by GitHub Pages*
