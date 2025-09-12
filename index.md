@@ -15,4 +15,5 @@ Berikut adalah Koleksi Yang dimiliki:
 8. [Janji](ebook3/Janji.pdf) - Tere Liye (2018)
 9. [Sepotong Hati yang Baru](ebook3/Sepotong Hati yang Baru.pdf) - Tere Liye (2019)
 10. [Si Anak Pelangi](ebook3/Si Anak Pelangi.pdf) - Tere Liye (2020)
+11. [Sendiri](ebook3/Sendiri.pdf) - Tere Liye (2024)
    *powered by GitHub Pages*
