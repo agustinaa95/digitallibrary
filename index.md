@@ -9,7 +9,7 @@ Berikut adalah Koleksi Yang dimiliki:
 2. [Ringkasan Beyond](ebook3/Ringkasan Beyond.pdf) - Dwi (2025)
 3. [Hijrah itu cinta](ebook3/Hijrah itu cinta.pdf) - Abay Adhitya (2018)
 4. [Syahadat cinta](ebook3/Syahadat cinta.pdf) - Al Azizy (2006)
-5. [Pada Senja yang membawamu pergi](ebook3/Pada Senja yang membawamu pergi.pdf) - Boy Candra (2016)
+5. [Pada Senja yg membawamu pergi](ebook3/Pada Senja yang membawamu pergi.pdf) - Boy Candra (2016)
 6. [Rahasia magnet rezeki](ebook3/Rahasia magnet rezeki.pdf) - Nasrullah (2016)
 7. [Yang fana adalah waktu](ebook3/Yang fana adalah waktu.pdf) - Sapardi Djoko Samono (2018)
 8. [Janji](ebook3/Janji.pdf) - Tere Liye (2018)
