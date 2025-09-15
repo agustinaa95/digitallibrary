@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut adalah Koleksi Yang dimiliki:
 
 ## Koleksi
-1. [Dwi Agustina cantikkk](ebook3/UU Nomor 20 Tahun 2014.pdf) - Agstn (2004)
+1. [Dwi Agustina](ebook3/UU Nomor 20 Tahun 2014.pdf) - Agstn (2004)
 2. [Ringkasan Materi VR](ebook3/Ringkasan Beyond.pdf) - Dwi Agustina (13040123140113)
 3. [Hijrah itu cinta](ebook3/Hijrah itu cinta.pdf) - Abay Adhitya (2018)
 4. [Syahadat cinta](ebook3/Syahadat cinta.pdf) - Al Azizy (2006)
