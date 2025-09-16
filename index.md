@@ -20,5 +20,10 @@ Berikut adalah Koleksi Yang dimiliki:
 
 ---
 [halaman1.html](webti/halaman1.html)
+[halaman2.html](webti/halaman2.html)
+[halaman3.html](webti/halaman3.html)
+[halaman4.html](webti/halaman4.html)
+[halaman5.html](webti/halaman5.html)
+[halaman6.html](webti/halaman6.html)
 
 *powered by GitHub Pages* 
