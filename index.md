@@ -16,4 +16,9 @@ Berikut adalah Koleksi Yang dimiliki:
 9. [Sepotong Hati yang Baru](ebook3/Sepotong Hati yang Baru.pdf) - Tere Liye (2024)
 10. [Si Anak Pelangi](ebook3/Si Anak Pelangi.pdf) - Tere Liye (2019)
 11. [Sendiri](ebook3/Sendiri.pdf) - Tere Liye (2024)
-   *powered by GitHub Pages*
+
+
+---
+[halaman1.html](webti/halaman1.html)
+
+*powered by GitHub Pages* 
